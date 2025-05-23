@@ -1,0 +1,39 @@
+[
+    {
+      "name": "Bora Bora",
+      "category": "beach",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "description": "A stunning beach destination in French Polynesia with crystal-clear waters."
+    },
+    {
+      "name": "Maui",
+      "category": "beach",
+      "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "description": "A tropical paradise in Hawaii, perfect for beach lovers."
+    },
+    {
+      "name": "Angkor Wat",
+      "category": "temple",
+      "imageUrl": "https://images.unsplash.com/photo-1581322778061-ec8d2c71a997",
+      "description": "The largest religious monument in the world, located in Cambodia."
+    },
+    {
+      "name": "Meenakshi Temple",
+      "category": "temple",
+      "imageUrl": "https://images.unsplash.com/photo-1585479785029-20a4e7b3c9bd",
+      "description": "A historic Hindu temple located in the temple city of Madurai, India."
+    },
+    {
+      "name": "Japan",
+      "category": "country",
+      "imageUrl": "https://images.unsplash.com/photo-1554797589-7241bb691973",
+      "description": "A country known for its blend of traditional culture and modern technology."
+    },
+    {
+      "name": "Italy",
+      "category": "country",
+      "imageUrl": "https://images.unsplash.com/photo-1526481280690-170b927f70d9",
+      "description": "Famous for its art, cuisine, and historic cities like Rome and Venice."
+    }
+  ]
+  
